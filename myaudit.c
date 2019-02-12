@@ -1,3 +1,6 @@
+
+/* system call function sys_syscall_audit && sys_myaudit */
+
 #include <asm/uaccess.h>
 #include <linux/proc_fs.h>
 #include <linux/init.h>
